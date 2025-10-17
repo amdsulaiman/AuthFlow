@@ -12,17 +12,6 @@ A simple iOS app demonstrating login, session persistence, and logout using **UI
 
 ---
 
-## Folder Structure
-AuthFlow/
-│
-├── AppDelegate.swift / SceneDelegate.swift # Root controller setup
-├── SessionManager.swift # Handles token storage & login state
-├── LoginViewController.swift # Login flow
-└── DashboardViewController.swift # Dashboard + Logout button
-
-
----
-
 ## How to Run
 1. Clone or download the project  
 2. Open `AuthFlow.xcodeproj` in **Xcode**  
